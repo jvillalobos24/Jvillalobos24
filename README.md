@@ -1,11 +1,13 @@
 # Hi there it's me Juan Sebastián Villalobos
 
+
 # About me:
 - Chemical engineering student
 - Programming beginner
-- My goals: 
-
-
+- My goals: Study abroad, going to MIT, move to USA
+## Mood:
+- Looking for motivation
+- 
 
 
 <!--
